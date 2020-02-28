@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">JonshonPaints</string>
+    <string name="spinner_title">Color</string>
+    <string name="spinner_unit">Unit</string>
+
+
+    <string-array name="company">
+        <item>Select Company</item>
+        <item>Techabilit group</item>
+        <item>Techabilit group1</item>
+        <!--<item>Basketball</item>-->
+        <!--<item>Table Tennis</item>-->
+        <!--<item>Batmintone</item>-->
+
+    </string-array>
+
+    <string-array name="product">
+        <item>Select Product</item>
+        <item>fdkvjkvmf</item>
+        <item>sjsakfcj</item>
+        <!--<item>Basketball</item>-->
+        <!--<item>Table Tennis</item>-->
+        <!--<item>Batmintone</item>-->
+
+    </string-array>
+
+    <string-array name="name">
+        <item>Select name</item>
+        <item>Mukesh Sah</item>
+        <item>Anil yadav</item>
+        <!--<item>Basketball</item>-->
+        <!--<item>Table Tennis</item>-->
+        <!--<item>Batmintone</item>-->
+
+    </string-array>
+
+</resources>
